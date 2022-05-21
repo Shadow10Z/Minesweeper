@@ -1,4 +1,4 @@
-# Minesweeper
+# Adaptaed Minesweeper
 
 The objective is to implement a game where the player controls a character thatyou have to go from point A to point B in a minefield.
 
