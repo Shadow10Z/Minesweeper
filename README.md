@@ -1,15 +1,15 @@
 # Adapted Minesweeper
 
-The objective is to implement a game where the player controls a character to go from point A to point B in a minefield.
+This is an adapted version of minesweeper, where the player controls a character to go from point A to point B in a minefield.
 
 In Minesweeper, the player has to discover all the mines in a given terrain. The objective is to “clear” the land of mines, marking their location.
 
 # More about the project
 
 The game will show a menu where you will need to enter "1" to start the game.
-Then it will be asked to put the number of lines, columns and mines(pressed ENTER, it will give a default number).
-Next, you will see the terrain with the position of the player ("P"), the numbers, the mines hiding and finishing line ("f").
-If you die to a bomb or if you finish the game, the terrain shows all the mines hiding :D
+Then it will be asked to put the number of lines, columns and mines (if you press ENTER, it will give a default number).
+Next, you will see the terrain with the position of the player ("P"), the numbers, the mines that you can't see and the finishing line ("f").
+If you die to a bomb or if you finish the game, you will see the terrain with all the mines that were hiding. 
 
 # Verifications
 
